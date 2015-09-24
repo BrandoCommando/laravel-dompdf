@@ -1,13 +1,9 @@
 {
-    "name": "brandocommando/laravel-dompdf",
+    "name": "barryvdh/laravel-dompdf",
     "description": "A DOMPDF Wrapper for Laravel",
     "license": "MIT",
     "keywords": ["laravel", "dompdf", "pdf"],
     "authors": [
-        {
-            "name": "Brandon Bowles",
-            "email": "brandroid64@gmail.com"
-        },
         {
             "name": "Barry vd. Heuvel",
             "email": "barryvdh@gmail.com"
@@ -26,7 +22,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-images": "0.6.1-dev"
+            "dev-master": "0.6-dev"
         }
     }
 }
