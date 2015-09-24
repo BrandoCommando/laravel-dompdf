@@ -13,10 +13,16 @@
             "email": "barryvdh@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/BrandoCommando/dompdf"
+        }
+    ],
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "5.0.x|5.1.x",
-        "brandocommando/dompdf": "0.7.1"
+        "brandocommando/dompdf": "dev-images"
     },
 
     "autoload": {
